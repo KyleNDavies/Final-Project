@@ -1,0 +1,108 @@
+Name,GivenName,Surname,,Path,Title,,,Office,SamAccountName,,,OfficePhone,EmployeeID
+Rod Butters,Rod,Butters,,"OU=Owners,OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Co-Owner and CEO,,,Head Office,20220001,,,4510,20220001
+Audrey Surrao,Audrey,Surrao,,"OU=Owners,OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Co-Owner and CFO,,,Head Office,20220002,,,4511,20220002
+James Hanna,James,Hanna,,"OU=General Managers,OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Chef de Cuisine,,,Head Office,20220003,,,4512,20220003
+Jason Whitfield,Jason,Whitfield,,"OU=General Managers,OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Pastry Chef,,,Head Office,20220004,,,4513,20220004
+Anthony Chalmers,Anthony,Chalmers,,"OU=General Managers,OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Restaurant Manager,,,Head Office,20220005,,,4514,20220005
+Scarlett Johansson,Scarlett,Johansson,,"OU=General Managers,OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",CIO,,,Head Office,20220006,,,4515,20220006
+Al Pacino,Al,Pacino,,"OU=General Managers,OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",VP - Human Resources,,,Head Office,20220007,,,4516,20220007
+Meryl Streep,Meryl,Streep,,"OU=General Managers,OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",VP - Finance,,,Head Office,20220008,,,4517,20220008
+Samuel Jackson,Samuel,Jackson,,"OU=General Managers,OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",VP - Marketing and PR,,,Head Office,20220009,,,4518,20220009
+Robert Downey Jr.,Robert,Downey Jr.,,"OU=HR,OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Recruiter,,,Head Office,20220010,,,4519,20220010
+Daniel Craig,Daniel,Craig,,"OU=HR,OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",HR Assistant,,,Head Office,20220011,,,4520,20220011
+Jennifer Lawrence,Jennifer,Lawrence,,"OU=HR,OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",HR Assistant,,,Head Office,20220012,,,4521,20220012
+Will Smith,Will,Smith,,"OU=HR,OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",HR Assistant,,,Head Office,20220013,,,4522,20220013
+Amy Adams,Amy,Adams,,"OU=Office Reception,OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Receptionist,,,Head Office,20220014,,,4523,20220014
+Christian Bale,Christian,Bale,,"OU=Office Reception,OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Admin Assistant,,,Head Office,20220015,,,4524,20220015
+Cate Blanchett,Cate,Blanchett,,"OU=IT Admins,OU=IT,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Senior Network Administrator,,,Head Office,20220016,,,4525,20220016
+Matt Damon,Matt,Damon,,"OU=IT Admins,OU=IT,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Junior Network Administrator,,,Head Office,20220017,,,4526,20220017
+Ryan Gosling,Ryan,Gosling,,"OU=IT Support,OU=IT,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Technician,,,Head Office,20220018,,,4527,20220018
+Bradley Cooper,Bradley,Cooper,,"OU=IT Support,OU=IT,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Technician,,,Head Office,20220019,,,4528,20220019
+Jane Fonda,Jane,Fonda,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Hostess,,,RauDZ Regional Kitchen,20220020,,,N/A,20220020
+Sally Field,Sally,Field,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Hostess,,,RauDZ Regional Kitchen,20220021,,,N/A,20220021
+Julie Andrews,Julie,Andrews,,"OU=Bartenders,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bartender,,,RauDZ Regional Kitchen,20220022,,,N/A,20220022
+Shirley Temple,Shirley,Temple,,"OU=Bartenders,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bartender,,,RauDZ Regional Kitchen,20220023,,,N/A,20220023
+Angelina Jolie,Angelina ,Jolie,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,RauDZ Regional Kitchen,20220024,,,N/A,20220024
+Sandra Bullock,Sandra,Bullock,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,RauDZ Regional Kitchen,20220025,,,N/A,20220025
+Paul Newman,Paul,Newman,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,RauDZ Regional Kitchen,20220026,,,N/A,20220026
+Jeff Bridges,Jeff,Bridges,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,RauDZ Regional Kitchen,20220027,,,N/A,20220027
+Don Cheadle,Don,Cheadle,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,RauDZ Regional Kitchen,20220028,,,N/A,20220028
+Vin Diesel,Vin,Diesel,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,RauDZ Regional Kitchen,20220029,,,N/A,20220029
+Gwyneth Paltrow,Gwyneth,Paltrow,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,RauDZ Regional Kitchen,20220030,,,N/A,20220030
+Marisa Tomei,Marisa,Tomei,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,RauDZ Regional Kitchen,20220031,,,N/A,20220031
+Michelle Pfeiffer,Michelle,Pfeiffer,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,RauDZ Regional Kitchen,20220032,,,N/A,20220032
+Jennifer Connelly,Jennifer,Connelly,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bar-Back,,,RauDZ Regional Kitchen,20220033,,,N/A,20220033
+Jack Nicholson,Jack,Nicholson,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bar-Back,,,RauDZ Regional Kitchen,20220034,,,N/A,20220034
+Leonardo DiCaprio,Leonardo,DiCaprio,,"OU=Sous Chefs,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Sous Chef,,,RauDZ Regional Kitchen,20220035,,,N/A,20220035
+Morgan Freeman,Morgan,Freeman,,"OU=Sous Chefs,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Sous Chef,,,RauDZ Regional Kitchen,20220036,,,N/A,20220036
+Robert De Niro,Robert,De Niro,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,RauDZ Regional Kitchen,20220037,,,N/A,20220037
+Daniel Day-Lewis,Daniel,Day-Lewis,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,RauDZ Regional Kitchen,20220038,,,N/A,20220038
+Anthony Hopkins,Anthony,Hopkins,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,RauDZ Regional Kitchen,20220039,,,N/A,20220039
+Benicio del Toro,Benicio,del Toro,,"OU=Ware-Washers,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Warewasher,,,RauDZ Regional Kitchen,20220040,,,N/A,20220040
+Peter Dinklage,Peter,Dinklage,,"OU=Ware-Washers,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Warewasher,,,RauDZ Regional Kitchen,20220041,,,N/A,20220041
+Julia Roberts,Julia,Roberts,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Hostess,,,Micro Bar & Bistro,20220042,,,N/A,20220042
+Charlize Theron,Charlize,Theron,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Hostess,,,Micro Bar & Bistro,20220043,,,N/A,20220043
+Hilary Swank,Hilary,Swank,,"OU=Bartenders,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bartender,,,Micro Bar & Bistro,20220044,,,N/A,20220044
+Nicole Kidman,Nicole,Kidman,,"OU=Bartenders,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bartender,,,Micro Bar & Bistro,20220045,,,N/A,20220045
+Brie Larson,Brie,Larson,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Micro Bar & Bistro,20220046,,,N/A,20220046
+Lupita Nyong'o,Lupita,Nyong'o,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Micro Bar & Bistro,20220047,,,N/A,20220047
+Natalie Portman,Natalie,Portman,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Micro Bar & Bistro,20220048,,,N/A,20220048
+Margot Robbie,Margot,Robbie,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Micro Bar & Bistro,20220049,,,N/A,20220049
+Elvis Presley,Elvis,Presley,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Micro Bar & Bistro,20220050,,,N/A,20220050
+Roger Waters,Roger,Waters,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Micro Bar & Bistro,20220051,,,N/A,20220051
+Alice Cooper,Alice,Cooper,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Micro Bar & Bistro,20220052,,,N/A,20220052
+Aretha Franklin,Aretha,Franklin,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,Micro Bar & Bistro,20220053,,,N/A,20220053
+Axl Rose,Axl,Rose,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,Micro Bar & Bistro,20220054,,,N/A,20220054
+Bob Dylan,Bob,Dylan,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bar-Back,,,Micro Bar & Bistro,20220055,,,N/A,20220055
+Bob Marley,Bob,Marley,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bar-Back,,,Micro Bar & Bistro,20220056,,,N/A,20220056
+Bruce Springsteen,Bruce,Springsteen,,"OU=Sous Chefs,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Sous Chef,,,Micro Bar & Bistro,20220057,,,N/A,20220057
+Eddie Vedder,Eddie,Vedder,,"OU=Sous Chefs,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Sous Chef,,,Micro Bar & Bistro,20220058,,,N/A,20220058
+Kurt Cobain,Kurt,Cobain,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,Micro Bar & Bistro,20220059,,,N/A,20220059
+Dave Grohl,Dave,Grohl,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,Micro Bar & Bistro,20220060,,,N/A,20220060
+David Bowie,David,Bowie,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,Micro Bar & Bistro,20220061,,,N/A,20220061
+Elton John,Elton,John,,"OU=Ware-Washers,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Warewasher,,,Micro Bar & Bistro,20220062,,,N/A,20220062
+Emin Em,Emin,Em,,"OU=Ware-Washers,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Warewasher,,,Micro Bar & Bistro,20220063,,,N/A,20220063
+Chuck Berry,Chuck,Berry,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Host,,,Sunny's Modern Diner,20220064,,,N/A,20220064
+Jimmy Cliff,Jimmy,Cliff,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Host,,,Sunny's Modern Diner,20220065,,,N/A,20220065
+Freddy Mercury,Freddy,Mercury,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Host,,,Sunny's Modern Diner,20220066,,,N/A,20220066
+Gwen Stefani,Gwen,Stefani,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Hostess,,,Sunny's Modern Diner,20220067,,,N/A,20220067
+Gene Simmons,Gene,Simmons,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Sunny's Modern Diner,20220068,,,N/A,20220068
+Paul Stanley,Paul,Stanley,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Sunny's Modern Diner,20220069,,,N/A,20220069
+Jerry Garcia,Jerry,Garcia,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Sunny's Modern Diner,20220070,,,N/A,20220070
+Otis Redding,Otis,Redding,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Sunny's Modern Diner,20220071,,,N/A,20220071
+Neil Young,Neil,Young,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Sunny's Modern Diner,20220072,,,N/A,20220072
+Steven Tyler,Steven,Tyler,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Sunny's Modern Diner,20220073,,,N/A,20220073
+Tina Turner,Tina,Turner,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,Sunny's Modern Diner,20220074,,,N/A,20220074
+Stevie Nicks,Stevie,Nicks,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,Sunny's Modern Diner,20220075,,,N/A,20220075
+Roger Daltrey,Roger,Daltrey,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,Sunny's Modern Diner,20220076,,,N/A,20220076
+Sid Vicious,Sid,Vicious,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,Sunny's Modern Diner,20220077,,,N/A,20220077
+Sinead O'Connor,Sinead,O'Connor,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,Sunny's Modern Diner,20220078,,,N/A,20220078
+The Edge,The,Edge,,"OU=Sous Chefs,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Sous Chef,,,Sunny's Modern Diner,20220079,,,N/A,20220079
+Tom Petty,Tom,Petty,,"OU=Sous Chefs,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Sous Chef,,,Sunny's Modern Diner,20220080,,,N/A,20220080
+Van Morrison,Van,Morrison,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,Sunny's Modern Diner,20220081,,,N/A,20220081
+Joan Jett,Joan,Jett,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,Sunny's Modern Diner,20220082,,,N/A,20220082
+John Fogerty,John,Fogerty,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,Sunny's Modern Diner,20220083,,,N/A,20220083
+John Lennon,John,Lennon,,"OU=Ware-Washers,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Warewasher,,,Sunny's Modern Diner,20220084,,,N/A,20220084
+Janis Joplin,Janis,Joplin,,"OU=Ware-Washers,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Warewasher,,,Sunny's Modern Diner,20220085,,,N/A,20220085
+Jacques Lennon,Jacques,Lennon,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Host,,,The Okanagan Table,20220086,,,N/A,20220086
+Peter Gabriel,Peter,Gabriel,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Host,,,The Okanagan Table,20220087,,,N/A,20220087
+Carlos Santana,Carlos,Santana,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Host,,,The Okanagan Table,20220088,,,N/A,20220088
+Buddy Holly,Buddy,Holly,,"OU=Host/Hostesses,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Hostess,,,The Okanagan Table,20220089,,,N/A,20220089
+Ma Donna,Ma,Donna,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,The Okanagan Table,20220090,,,N/A,20220090
+Don Henley,Don,Henley,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,The Okanagan Table,20220091,,,N/A,20220091
+Eddie Van Halen,Eddie,Van Halen,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,The Okanagan Table,20220092,,,N/A,20220092
+James Lennon,James,Lennon,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,The Okanagan Table,20220093,,,N/A,20220093
+Mick Jagger,Mick,Jagger,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,The Okanagan Table,20220094,,,N/A,20220094
+Liam Gallagher,Liam,Gallagher,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,The Okanagan Table,20220095,,,N/A,20220095
+Frank Zappa,Frank,Zappa,,"OU=Servers,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Server,,,The Okanagan Table,20220096,,,N/A,20220096
+Dwayne Johnson,Dwayne ,Johnson,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,The Okanagan Table,20220097,,,N/A,20220097
+Adam Sandler,Adam,Sandler,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,The Okanagan Table,20220098,,,N/A,20220098
+Tom Hanks,Tom,Hanks,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,The Okanagan Table,20220099,,,N/A,20220099
+David Lee Roth,David Lee,Roth,,"OU=Bussers/Bar-Backs,OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Busser,,,The Okanagan Table,20220100,,,N/A,20220100
+Mickey Dolenz,Mickey,Dolenz,,"OU=Sous Chefs,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Sous Chef,,,The Okanagan Table,20220101,,,N/A,20220101
+Peter Tork,Peter,Tork,,"OU=Sous Chefs,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Sous Chef,,,The Okanagan Table,20220102,,,N/A,20220102
+Davy Jones,Davy,Jones,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,The Okanagan Table,20220103,,,N/A,20220103
+Michael Nesmith,Michael,Nesmith,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,The Okanagan Table,20220104,,,N/A,20220104
+Keith Richards,Keith,Richards,,"OU=Line Cooks,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cook,,,The Okanagan Table,20220105,,,N/A,20220105
+Stevie Wonder,Stevie,Wonder,,"OU=Ware-Washers,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Warewasher,,,The Okanagan Table,20220106,,,N/A,20220106
+Jennifer Lennon,Jennifer,Lennon,,"OU=Ware-Washers,OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Warewasher,,,The Okanagan Table,20220107,,,N/A,20220107

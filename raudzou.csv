@@ -1,0 +1,26 @@
+Path,Name
+"OU=RauDZ,DC=Int,DC=raudz,DC=com",Computers
+"OU=RauDZ,DC=Int,DC=raudz,DC=com",Users
+"OU=Computers,OU=RauDZ,DC=Int,DC=raudz,DC=com",Windows 10
+"OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Staff
+"OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Executives
+"OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",IT
+"OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Office
+"OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Restaurant
+"OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",HR
+"OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Finance
+"OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Marketing/PR
+"OU=Office,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Office Reception
+"OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Front of House
+"OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Back of House
+"OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Host/Hostesses
+"OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Servers
+"OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bartenders
+"OU=Front of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Bussers/Bar-Backs
+"OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Sous Chefs
+"OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Line Cooks
+"OU=Back of House,OU=Restaurant,OU=Staff,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Ware-Washers
+"OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",Owners
+"OU=Executives,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",General Managers
+"OU=IT,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",IT Admins
+"OU=IT,OU=Users,OU=RauDZ,DC=Int,DC=raudz,DC=com",IT Support
