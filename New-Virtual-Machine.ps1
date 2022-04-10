@@ -22,19 +22,6 @@ Function New-Virtual-Machine {
         $vmBootDevice = Read-Host "What would you like to boot from? (CD, VHD)"
     }
 
-    $createSwitchPrompt = Read-Host "Do you want to create a virtual switch? yes/no"
-
-    if ($createSwitchPrompt -eq "yes") {
-        $switchName = Read-Host "Switch name"
-        $switchType = Read-Host "Switch type (Internal, External, Private)"
-        if ($switchType -eq "External") {
-            $netAdapter = Get-NetAdapter
-            New-VMSwitch -Name $switchName -NetAdapterName $netAdapter
-        } else {
-            New-VMSwitch -Name $switchName -SwitchType $switchType
-        }
-    }
-
     $vmSwitch = Read-Host "Which virtual switch do you want to use? You must use the full name"
     $vmISOPrompt = Read-Host "Do you want to specify an iso file for OS installation?"
 
