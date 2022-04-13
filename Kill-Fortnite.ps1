@@ -17,3 +17,6 @@ Start-Job -Name "KillFortnite" -ScriptBlock {
         }
     }
 }
+
+#Checks if Fortnite is running every 5 minutes. If it is, it kills the process. If not, nothing happens.
+#Loops forever, use Stop-Job -Name KillFortnite to stop.
